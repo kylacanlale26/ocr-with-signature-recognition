@@ -1,0 +1,8 @@
+{
+  "name": "Remix VeriDoc OCR",
+  "description": "AI-integrated OCR and document verification API for PDF, PNG, JPEG, and handwritten records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
